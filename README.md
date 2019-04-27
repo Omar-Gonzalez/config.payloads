@@ -1,2 +1,2 @@
 # config.payloads
-Config payloads for some of my sites
+Public config payloads for some of my apps
